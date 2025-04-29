@@ -11,6 +11,17 @@ namespace ConsoleApp33
         static void Main(string[] args)
         {
             Console.WriteLine("hello, world");
+            Console.WriteLine("hello, Uzbekistan");
+        }
+
+        static void greeting()
+        {
+            Console.WriteLine("hello, people");
+        }
+
+        static void farewell()
+        {
+            Console.WriteLine("goodbye people");
         }
     }
 }
