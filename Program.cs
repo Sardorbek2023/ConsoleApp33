@@ -11,6 +11,7 @@ namespace ConsoleApp33
         static void Main(string[] args)
         {
             Console.WriteLine("bu ikkinchi branch");
+            Console.WriteLine("ikkinchi branch yaratildi");
         }
 
         static void greeting()
