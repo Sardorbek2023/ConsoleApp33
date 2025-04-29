@@ -14,6 +14,7 @@ namespace ConsoleApp33
             greeting();
             farewell();
             Console.WriteLine("yangi uzgarish");
+            Console.WriteLine("sardor870 dan kiritilgan o'zgarish");
         }
 
         static void greeting()
