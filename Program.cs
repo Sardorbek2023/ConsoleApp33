@@ -10,8 +10,10 @@ namespace ConsoleApp33
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello, world");
-            Console.WriteLine("hello, Uzbekistan");
+            
+            greeting();
+            farewell();
+            Console.WriteLine("yangi uzgarish");
         }
 
         static void greeting()
